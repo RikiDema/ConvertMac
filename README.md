@@ -1,6 +1,10 @@
 # ConvertMac
 Convert Macbook-pro-15 years 2010 to portable computer ARM 
 
+Done things:
+
+1)  Remove original motherboard, battery and cd-rom using this guide: https://it.ifixit.com/Smontaggio/MacBook+Pro+15-Inch+Unibody+Mid+2010+Teardown/2212?lang=en
+
 Things still to do: 
 
 1) using the schematics to reverse engineer the pcb, find the connections for the trackpad and keyboard  
@@ -12,6 +16,3 @@ Things still to do:
 7) reconstruct input output circuit usb, sd, displayport, ethernet, wire internal camera usb 
 8) add a sata-to-usb or sata-to-pci-e controller for the internal hard drive 
 
-Done things:
-
-1)  Remove original motherboard, battery and cd-rom using this guide: https://it.ifixit.com/Smontaggio/MacBook+Pro+15-Inch+Unibody+Mid+2010+Teardown/2212?lang=en
